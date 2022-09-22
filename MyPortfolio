@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <div class="title">
+    <title>My Portfolio<br>By: Finlay Kolijn</title>
+    </div>
+    
+   
+</head>
+<body>
+    <div class="text">
+   <div class="nav">
+    <a href="#Hero">Hero</a>
+    <a href="#About Me">About Me</a>
+    <a href="#Work Experience">Work Experience</a>
+    <a href="#Contact">Contact</a>
+   </div> 
+   <img src="background1.jfif" alt="">
+   <div id="Hero">
+    <h1>Hero</h1>
+    <p>Hello, my name is Finlay Kolijn, and I am a student at Western University. <br>
+        I offer great skills and assets that are needed for this position. <br>
+        People should work with me because I am charasmatic and understanding, and I will do everything I can to help others. <br>
+    </p>
+   </div>
+   <div id="About Me">
+    <h1>About Me</h1>
+    <p>Currently, my education is a high school diploma, although I am also enrolled in software engineering at Wester University,  on my way to getting an engineering degree. <br> 
+        My main coding skills are in java, but I am currently learning javascript as well. <br>
+        My work experience includes working as a soccer referee for a number of years and working in a retirement home over the past few summers. <br>
+        My hobbies include playing and watching soccer, hanging out with friends and coding projects in my spare time. <br>
+        My main goals right now are to improve my coding abilities in multiple languages and finish university and get a degree. <br>
+    </p>
+   </div>
+   <div id="Work Experience">
+    <h1>Work Experience</h1>
+    <p>Project 1: --------<br>
+        Description --------<br>
+        Project 2: --------<br>
+        Description --------<br>
+        Project 3: -------- <br>
+        Description --------
+    </p>
+   </div>
+   <div id="Contact">
+    <h1>Contact</h1>
+    <p>Phone number: 999-999-9999 <br>
+        Email: myportfolio@email.ca <br>
+        Address: 999 Hollywood Avenue <br>
+        Social media: -------- <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </p>
+    </div>
+    
+</div>
+   
+    <div class="footer">
+        <p> Privary policy: -------- Contact Information: --------
+            <br>
+            Terms of use: -------- Social Networks: --------
+            <br>
+            Copyright: Finlay Kolijn
+        </p>
+    </div>
+
+</body>
+</html>
